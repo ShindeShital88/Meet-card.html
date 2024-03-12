@@ -1,0 +1,30 @@
+
+.card{
+
+    height: 200px;
+    width:220px;
+    border: 3px solid blue;
+    border-radius:20px;
+    padding: 20px;
+    display: inline-block;
+    background-color: black;
+    margin:30px;
+}
+
+.img{
+    height:90px;
+    width: 90px;
+    border-radius:50%;
+    display: block;
+    margin:50px auto ;
+
+}
+.name{
+    color: white;
+    margin: 15px auto;
+    
+}
+.mic{
+    margin-left:auto;
+    display: block;
+}
